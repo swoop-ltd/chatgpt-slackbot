@@ -13,9 +13,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@slack/bolt": "^3.12.2",
+    "@slack/bolt": "^3.22.0",
     "chatgpt": "^3.3.12",
     "dotenv-safe": "^8.2.0",
-    "openai": "^3.1.0"
+    "openai": "^6.10.0"
   }
 }
